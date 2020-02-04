@@ -32,7 +32,7 @@
 <ul>
 <li>单片机开发</li>
 <li>电子设计</li>
-<li>MiniPC开发</li>
+<li>3D打印</li>
 </ul>
 <h3>荣誉奖励</h3>
 <ul>
